@@ -1,37 +1,82 @@
-## Welcome to GitHub Pages
+# READINGS
+## READ RECAP 102
+### Sunday Feb 16, 2020 
 
-You can use the [editor on GitHub](https://github.com/Darah98/reading-notes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+#### HTML CSS
+**Chapter 1: Structure**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- HTML include elements to add structure to the page.
+    - Tags: they are like containers that tell you about the things inside (they have one opening tag and one closing tag)
+    - Attributes (Must include name and value)
 
-### Markdown
+**Chapter 8: Extra Markup**
+Different versions of HTML have been released. So DOCTYPE has to be at the beginning of every HTML file to let the browser know which one we are using. 
+* We can add comments throughout our *HTML* page by using < ! - - COMMENT - - >
+    - comments are not visible to the users
+* We can also add IDs and Class attributes along the code to identify elements.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* We can use < div > & < span > to help us group block -level & inline elements.
 
-```markdown
-Syntax highlighted code block
+* < iframes > cut windows in our page to include other pages within the original page. ***i.e include a map from google maps in our website***
 
-# Header 1
-## Header 2
-### Header 3
+**Chapter 17: HTML5 Layout**
 
-- Bulleted
-- List
+- Header & Footer
+- Navigation Bar
+- Articles 
+- Asides
+..
 
-1. Numbered
-2. List
+* **HTML5 elements indicate the purpose of different parts of a web page**
+- The new tags have semantic meanings 
+- They help in SEO search results
 
-**Bold** and _Italic_ and `Code` text
+**Chapter 18: Process and Design**
+The process of building a site requires a few steps..
+1. knowing the audience and what they expect to see on our website!
+2. organizing the information we are willing to share on the website so that the visitors can find what they came looking for.
+3. Design a way to present that information.
+4. Create attractive interface. 
 
-[Link](url) and ![Image](src)
-```
+* *Site Maps* help plan the structure of the website. 
+* *Wireframes*  help organize the information included in the site.
+* *Grouping* and *Similarity* allow us to present the information in the best way possible.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### JS and JQuery
+### ABC of Programming
+### Important
+To learn the JS language, we need to know the *Vocabulary* and the *Syntax* 
+*Vocabulary*: words used in JS
+*Syntax*: How the words are arranged to form full instructions
+##### 1/a
+**Script** is a series of instructions given to a computer in order to achieve a *goal*.
+- Break down the *goal* into a series of tasks that a computer can solve programmatically.
+1. Define the goal
+1. Design the script
+1. Code each step
 
-### Jekyll Themes
+Computers work differently . They are literal and require basic instructions.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Darah98/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+##### 1/b
+Computers create *models* of the world by using data. 
 
-### Support or Contact
+* These *models* use *objects* to represent phyical things
+* *Objects* 
+ - properties tell about the object
+ - methods perform tasks depending on the properties
+ - events are triggered when user interacts with computer
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+* Programmers write the code to tell computers to run the code whenever the event happens
+
+##### 1/c
+HTML, CSS & JS all together make website.
+< html > is the content layer
+{ css } is the presentation layer
+( js ) is the behaviour layer
+
+- To link HTML to JS: 
+**< Script src = " JS PAGE NAME > < / Script >** in the HTML page.
+
+**JS runs wherever found in the HTML page.** *Place Sensitive*
