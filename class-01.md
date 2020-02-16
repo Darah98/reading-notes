@@ -51,7 +51,7 @@ The process of building a site requires a few steps..
 
 #### JS and JQuery Textbook
 ### ABC of Programming
-### Important
+#### Important!
 To learn the JS language, we need to know the *Vocabulary* and the *Syntax* 
 
 ***Vocabulary:*** words used in JS
@@ -75,7 +75,6 @@ Computers work differently . They are literal and require basic instructions.
 Computers create *models* of the world by using data. 
 
 * These *models* use *objects* to represent phyical things
-* *Objects* 
  - properties tell about the object
  - methods perform tasks depending on the properties
  - events are triggered when user interacts with computer
@@ -92,12 +91,11 @@ Computers create *models* of the world by using data.
 { css } is the presentation layer
 ( js ) is the behaviour layer
 
-- To link HTML to JS:
+- To link HTML to JS:   in the HTML page.
 
 > **< Script src = " JS PAGE NAME > < / Script >** 
 
-in the HTML page.
 
-**JS runs wherever found in the HTML page.** *Place Sensitive*
+**JS runs wherever found in the HTML page.** *It is Place Sensitive*
 
 [Go back to Homepage](README.md)
