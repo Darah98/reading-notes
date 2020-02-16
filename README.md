@@ -24,7 +24,7 @@ In this website, we are going to reflect on all the chapters taken in classes to
 
 | Class # | Topic |
 |---------|-----------|
-|Read 01a | [Read Recap](readrecap.md)|
+|Read 01a | [Read Recap Class-01](class-01.md)|
 |Read 02 | |
 |Read 04 | |
 |Read 05 | |

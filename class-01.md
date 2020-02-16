@@ -81,4 +81,4 @@ HTML, CSS & JS all together make website.
 
 **JS runs wherever found in the HTML page.** *Place Sensitive*
 
-[Go BACK!](README.md)
+[Go back to Homepage](README.md)
