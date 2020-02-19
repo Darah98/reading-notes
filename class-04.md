@@ -8,7 +8,7 @@
 * < a >
 * relative URLs
 
-**Directoris**
+**Directories**
 
 *Rules*
 * Every page and every image on
@@ -33,7 +33,8 @@ a website has a **URL**
 * Pages can be fixed width or liquid (stretchy) layouts.
 * Designers keep pages within 960-1000 pixels wide, and indicate what the site is about within the top 600 pixels (to demonstrate its relevance without scrolling).
 * Grids help create professional and flexible designs. 
-* CSS Frameworks provide rules for common tasks. X You can include multiple CSS files in one page.
+* CSS Frameworks provide rules for common tasks. 
+* You can include multiple CSS files in one page.
 
 > JS Functions
 
@@ -54,8 +55,8 @@ a website has a **URL**
 
 * Declaring a function
 * Calling a function
-* Declaring a function that need information 
-* Calling a funtion that need information
+* Declaring a function that needs information 
+* Calling a function that needs information
 * Getting a single value out of a function
 * Getting multiple values out of a function
 
