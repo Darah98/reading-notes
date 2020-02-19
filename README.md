@@ -28,7 +28,7 @@ In this website, we are going to reflect on all the chapters taken in classes to
 |Read 02 | [Quiz Yourself Here](class-02.md) |
 |Read 03 | [Summary](class-03.md) |
 |Read 04 | [Summary](class-04.md) |
-|Read 05 | |
+|Read 05 | [Summary](class-05.md) |
 |Read 06 | |
 |Read 07 | |
 |Read 08 | |
