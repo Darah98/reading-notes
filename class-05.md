@@ -36,8 +36,9 @@ Image Formats:
 ### TEXT
 
 **Typeface Terminology**
-|term|keyword|
-|----|-------|
+
+| term | keyword |
+|-------|-------|
 | Serif | extra details |
 | SanS-Serif | straight ends |
 | monoSpace | same width |
