@@ -34,7 +34,7 @@ In this website, we are going to reflect on all the chapters taken in classes to
 |Read 08 | [Summary](class-08.md) |
 |Read 09 | [Summary](class-09.md) |
 |Read 10 | [Summary](class-10.md) |
-|Read 11 | |
+|Read 11 | [Summary](class-11.md) |
 |Read 12 | |
 |Read 13 | |
 |Read 14 | |
