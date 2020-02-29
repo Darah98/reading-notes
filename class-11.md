@@ -1,7 +1,7 @@
 # Read11
 ## Mar 1, 2020 / Sunday
 
-### Images
+#### Images
 
 **Images can be aligned both horizontally and vertically using CSS**
 **To reduce the number of images a browser has to load, one can create *image sprites***
