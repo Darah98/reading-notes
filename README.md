@@ -19,7 +19,7 @@ In this website, we are going to reflect on all the chapters taken in classes to
 * Be productive 
 * Be **ready**
 
-## Table of content
+## Table of contents
 ***This website includes:***
 
 | Class # | Topic |
@@ -39,3 +39,4 @@ In this website, we are going to reflect on all the chapters taken in classes to
 |Read 13 | [Summary](class-13.md) |
 |Read 14 | [Summary](class-14.md) |
 |Read 15 | [Summary](class-15.md) |
+As well as this [LINK](301readings.md) for the 301-Code Course.
