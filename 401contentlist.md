@@ -1,4 +1,4 @@
-## WELCOME TO 301 READING NOTES
+## WELCOME TO 401 READING NOTES
 ### Table of Contents:
 
 | Class # |           Topic         |
