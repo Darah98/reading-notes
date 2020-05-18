@@ -3,8 +3,8 @@
 
 | Class # |           Topic         |
 | :-----: |         :-----:         |
-| Read 01 |  [Read01](401/401read1.md)  |
-| Read 01 |  [Read02](401/401read2.md)  |
+| Read 01 |  [Read01](401/401read01.md)  |
+| Read 01 |  [Read02](401/401read02.md)  |
 | Read 03 |  |
 | Read 04 |  |
 | Read 05 |  |
