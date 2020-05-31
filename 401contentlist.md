@@ -10,7 +10,7 @@
 | Class 04 | [Read04](401/401read4.md) |
 | Class 05 | [Read05](401/401read5.md) |
 | Class 06 | [Read06](401/401read6.md) |
-| Class 07 |                           |
+| Class 07 | [Read07](401/401read7.md) |
 | Class 08 |                           |
 | Class 09 |                           |
 | Class 10 |                           |
