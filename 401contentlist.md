@@ -12,7 +12,7 @@
 | Class 06 | [Read06](401/401read6.md) |
 | Class 07 | [Read07](401/401read7.md) |
 | Class 08 | [Read08](401/401read8.md) |
-| Class 09 |                           |
+| Class 09 | [Read09](401/401read9.md) |
 | Class 10 |                           |
 | Class 11 |                           |
 | Class 12 |                           |
