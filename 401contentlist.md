@@ -15,7 +15,7 @@
 | Class 09 | [Read09](401/401read9.md)  |
 | Class 10 | [Read10](401/401read10.md) |
 | Class 11 | [Read11](401/401read11.md) |
-| Class 12 |                            |
+| Class 12 | [Read12](401/401read12.md) |
 | Class 13 |                            |
 | Class 14 |                            |
 | Class 15 |                            |
