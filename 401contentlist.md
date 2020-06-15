@@ -21,4 +21,5 @@
 | Class 15 | [Read15](401/401read15.md) |
 | Class 16 | [Read16](401/401read16.md) |
 | Class 17 | [Read17](401/401read17.md) |
+| Class 18 | [Read18](401/401read18.md) |
 
