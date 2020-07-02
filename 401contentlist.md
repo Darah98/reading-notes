@@ -23,8 +23,9 @@
 | Class 17 | [Read17](401/401read17.md) |
 | Class 18 | [Read18](401/401read18.md) |
 | Class 19 | [Read19](401/401read19.md) |
-| Class 20 | [Read20](401/401read20.md) |
-| Class 21 | [Read21](401/401read21.md) |
-| Class 22 | [Read22](401/401read22.md) |
-| Class 23 | [Read23](401/401read23.md) |
+| Class 26 | [Read20](401/401read20.md) |
+| Class 27 | [Read21](401/401read21.md) |
+| Class 28 | [Read22](401/401read22.md) |
+| Class 29 | [Read23](401/401read23.md) |
+| Class 30 | [Read24](401/401read24.md) |
 
