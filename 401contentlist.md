@@ -33,4 +33,5 @@
 | Class 33 | [Read27](401/401read27.md) |
 | Class 34 | [Read28](401/401read28.md) |
 | Class 35 | [Read29](401/401read29.md) |
+| Class 36 | [Read30](401/401read30.md) |
 
